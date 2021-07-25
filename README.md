@@ -8,11 +8,11 @@ I'm Davi Azevedo! I'm a **Web Developer**, looking to solve **real-world problem
 
 <!-- Your badges -->
 
-[![Linkedin](https://img.shields.io/badge/-Davi-Azevedo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-azevedo-3a62361a5)
+[![Linkedin](https://img.shields.io/badge/-DaviAzevedo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-azevedo-3a62361a5)
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=daviaze&style=flat)
-[![Github](https://img.shields.io/badge/-Davi-Azevedo-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
+[![Github](https://img.shields.io/badge/-DaviAzevedo-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
 
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
