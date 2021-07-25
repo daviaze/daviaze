@@ -43,9 +43,9 @@ Since the World is in the quarantine stage:earth_asia:, and I’m having lots of
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/daviaze">
     <img width="460" height="auto" align="right" alt="daviaze github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+         src="https://github-readme-stats.vercel.app/api?username=daviaze&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaze&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
