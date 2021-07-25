@@ -18,6 +18,15 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="360" height="auto" />
 
+<p> <!-- GitHub README Stats -->
+  <a href="https://gitstats.me/daviaze">
+    <img width="460" height="auto" align="right" alt="daviaze github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=daviaze&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaze&layout=compact" />
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+  </a>
+
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
 * ReactJS 💫
@@ -52,14 +61,6 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
 <br>
 </p>
 
-<p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/daviaze">
-    <img width="460" height="auto" align="right" alt="daviaze github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=daviaze&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaze&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
 
  <br>
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
