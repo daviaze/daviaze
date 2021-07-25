@@ -61,5 +61,6 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
 
+ <br>
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
