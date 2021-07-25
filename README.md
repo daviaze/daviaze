@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+I'm Davi Azevedo! I'm a **Web Developer**, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -42,7 +42,7 @@ Since the World is in the quarantine stage:earth_asia:, and I’m having lots of
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/JoykishanSharma">
-    <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
+    <img width="460" height="auto" align="right" alt="daviaze github stats" 
          src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
