@@ -8,7 +8,7 @@ I'm Davi Azevedo! I'm a **Web Developer**, looking to solve **real-world problem
 
 <!-- Your badges -->
 
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-azevedo-3a62361a5)
+[![Linkedin](https://img.shields.io/badge/-DaviAzevedo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-azevedo-3a62361a5)
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=daviaze&style=flat)
