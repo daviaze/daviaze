@@ -9,9 +9,9 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
 <!-- Your badges -->
 
 [![Linkedin](https://img.shields.io/badge/-DaviAzevedo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-azevedo-3a62361a5)
+[![Github](https://img.shields.io/badge/-DaviAzevedo-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
 
 <!-- Profile View Count and GitStats -->
-[![Github](https://img.shields.io/badge/-DaviAzevedo-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
 
 ![](https://komarev.com/ghpvc/?username=daviaze&style=flat)
 
