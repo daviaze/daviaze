@@ -16,7 +16,7 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
 ![](https://komarev.com/ghpvc/?username=daviaze&style=flat)
 
 <!-- gif Image -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="360" height="auto" />
 
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
