@@ -49,7 +49,6 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
  <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></a></code>
  <!-- Terminal -->
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a></code>
-<br>
 </p>
 
 <p> <!-- GitHub README Stats -->
@@ -60,6 +59,5 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaze&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
- <br>
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
