@@ -25,6 +25,9 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
 * Postgree
 * HTML
 * CSS
+
+ ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
  <!-- icons -->
  <!-- Android Development -->
  <code><a href = "https://kotlinlang.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"></a></code>
@@ -64,7 +67,6 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
 <code><a href = "adobe.com/in/products/xd.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"></a></code>
 </p>
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/daviaze">
     <img width="460" height="auto" align="right" alt="daviaze github stats" 
