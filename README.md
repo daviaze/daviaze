@@ -20,6 +20,12 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
 
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
+* C#
+* .NET
+* Web Api
+* Entity Framework
+* SQL
+* DDD
 * ReactJS 💫
 * NodeJS
 * MongoDB
