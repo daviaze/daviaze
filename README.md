@@ -29,12 +29,9 @@ I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Syst
 * DDD
 * Azure
 * Docker
-* ReactJS
-* NodeJS
 * MongoDB
 * Postgree
-* HTML
-* CSS
+
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
