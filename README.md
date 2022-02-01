@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Davi Azevedo! I am twenty-one years old, I am a graduate in Information Systems, technology lover, and study web development. :smile:.
+I'm Davi Azevedo! I am twenty-two years old, I am a graduate in Information Systems, technology lover, and study web development. :smile:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
