@@ -31,6 +31,7 @@ I'm Davi Azevedo! I am twenty-two years old, I am a graduate in Information Syst
 * Docker
 * MongoDB
 * Postgree
+* Angular
 
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
