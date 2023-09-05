@@ -50,6 +50,8 @@ I'm Davi Azevedo! I am twenty-two years old, I am a graduate in Information Syst
 <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></a></code>
 <code><a href = "https://www.sqlite.org/index.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite"></a></code>
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a></code>
+<code><a href="https://github.com/daviaze/daviaze/assets/47645089/2d5a65df-b7f0-4693-97bf-f0dbd509cb30"> <img height=40 src="https://github.com/daviaze/daviaze/assets/47645089/3e039a5a-cafc-4cd0-9838-d8ae338a9d67
+" alt="angular"></code>
 </p>
 
 <p> <!-- GitHub README Stats -->
