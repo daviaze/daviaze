@@ -23,15 +23,17 @@ I'm Davi Azevedo! I am twenty-two years old, I am a graduate in Information Syst
 * C#💫
 * .NET
 * .CORE
+* Angular
+* Flutter
 * Web Api
 * Entity Framework
 * SQL
 * DDD
-* Azure
+* GCP
 * Docker
 * MongoDB
 * Postgree
-* Angular
+* FireBase
 
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
