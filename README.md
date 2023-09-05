@@ -53,6 +53,7 @@ I'm Davi Azevedo! I am twenty-two years old, I am a graduate in Information Syst
 <code><a href = "https://www.sqlite.org/index.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite"></a></code>
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a></code>
 </p>
+<br>
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/daviaze">
     <img width="460" height="auto" align="right" alt="daviaze github stats" 
