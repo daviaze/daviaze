@@ -42,7 +42,7 @@ I'm Davi Azevedo! I am twenty-two years old, I am a graduate in Information Syst
  <!-- Web Development -->
  <code><a href="https://dotnet.microsoft.com/pt-br/"> <img height=40 src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt=".net"></code>
 <code><a href="https://angular.io/"> <img height=40 src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular"></code>
-<code><a href="https://angular.io/"> <img height=40 src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png](https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" alt="flutter"></code>
+<code><a href="https://angular.io/"> <img height=40 src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" alt="flutter"></code>
 
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></a></code>
